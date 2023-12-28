@@ -20,11 +20,11 @@ The goal of this assignment is to design and implement a back-end system for use
 
 ## Main Body
 ### Dependencies
-Dependencies that were installed before the creating the project
-`express` - To serve our application
-`bcrypt` - To hash user password to make them secure
-`express-session` - To store session details in a session cookie object
-`express-flash` - To display flash messages to the user
-`passport` - To authenticate users
+Dependencies that were installed before the creating the project <br>
+`express` - To serve our application<br>
+`bcrypt` - To hash user password to make them secure<br>
+`express-session` - To store session details in a session cookie object<br>
+`express-flash` - To display flash messages to the user<br>
+`passport` - To authenticate users<br>
 `passport-local` - To implement a local authentication strategy for our application
 
