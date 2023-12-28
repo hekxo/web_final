@@ -9,5 +9,5 @@ The goal of this assignment is to design and implement a back-end system for use
 -Setup and Installation;
 <br>-Registration Form;
 <br>-Login Form;
-<br>-Database Interaction;
+<br>-Database Interaction.
 
