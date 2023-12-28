@@ -8,6 +8,7 @@
 - [Main Body](#main-body)
     - [Dependencies](#dependencies)
     - [PostgreSql](#postgresql)
+    - [NodeJS](#nodejs)
 
 
 ## Objective
@@ -37,6 +38,16 @@ Creating the table with users's data:<br>
 ![Example Image](table.jpeg)
 Connect with database:<br>
 ![Example Image](connection.jpeg)
+### NodeJS
+Creating asyncronous method "post" to handle register, validation form
+![Example Image](post.jpeg)
+Creating the method "query" to work with database by using SELECT and INSERT INTO methods<br>
+![Example Image](query(1).jpeg)
+<br>
+![Example Image](query(2).jpeg)
+
+
+
 
 
 
