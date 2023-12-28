@@ -6,7 +6,7 @@
 - [Objective](#objective)
 - [Requirements](#requirements)
 - [Main Body](#main-body)
-- 
+- [Dependencies](#dependencies)
 
 
 ## Objective
@@ -19,4 +19,5 @@ The goal of this assignment is to design and implement a back-end system for use
 <br>-Database Interaction.
 
 ## Main Body
+### Dependencies we installed
 
