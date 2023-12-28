@@ -7,6 +7,7 @@
 - [Requirements](#requirements)
 - [Main Body](#main-body)
     - [Dependencies](#dependencies)
+    - [PostgreSql](#postgresql)
 
 
 ## Objective
@@ -34,6 +35,9 @@ Creating the database:<br>
 ![Example Image](database.jpeg)
 Creating the table with users's data:<br>
 ![Example Image](table.jpeg)
+Connect with database:<br>
+![Example Image](connection.jpeg)
+
 
 
 
