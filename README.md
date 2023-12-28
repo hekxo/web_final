@@ -28,9 +28,9 @@ Dependencies that were installed before the creating the project <br>
 `passport` - To authenticate users<br>
 `passport-local` - To implement a local authentication strategy for our application
 ### PostgreSql
-Creating the database:
+Creating the database:<br>
 ![Example Image](database.jpeg)
-Creating the table with users's data:
+Creating the table with users's data:<br>
 ![Example Image](table.jpeg)
 
 
