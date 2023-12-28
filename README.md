@@ -27,6 +27,8 @@ Dependencies that were installed before the creating the project <br>
 `express-flash` - To display flash messages to the user<br>
 `passport` - To authenticate users<br>
 `passport-local` - To implement a local authentication strategy for our application
+<br>
+![Example Image](dependencies.jpeg)
 ### PostgreSql
 Creating the database:<br>
 ![Example Image](database.jpeg)
