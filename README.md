@@ -6,7 +6,7 @@
 - [Objective](#objective)
 - [Requirements](#requirements)
 - [Main Body](#main-body)
-- [Dependencies](#dependencies)
+    - [Dependencies](#dependencies)
 
 
 ## Objective
