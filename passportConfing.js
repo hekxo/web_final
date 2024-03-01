@@ -3,10 +3,10 @@ const { pool } = require('./dbConfig');
 const bcrypt = require('bcrypt');
 
 function initialize(passport) {
-    const authenticateUser = (email, password, done) => {
+    const authenticateUser = (username, password, done) => {
         pool.query(
             `SELECT * FROM users
-            WHERE email=$1`, [email], (err, results) => {
+            WHERE username=$1`, [username], (err, results) => {
                 if (err) {
                     throw err;
                 }
@@ -25,14 +25,14 @@ function initialize(passport) {
                         }
                     })
                 } else {
-                    return done(null, false, {message: "Email is not registered"});
+                    return done(null, false, {message: "Username is not registered"});
                 }
             }
         )
     }
 
     passport.use(new LocalStrategy({
-        usernameField: "email",
+        usernameField: "username",
         passwordField: "password"
     }, authenticateUser));
 
